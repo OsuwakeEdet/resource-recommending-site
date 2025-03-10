@@ -1,4 +1,4 @@
-# Resource Hub: Books, Courses & Tools for Every Passion  
+# Resource Hub: Books, Courses & Tools for Every Passion  (dummy description)
 
 Your go-to platform for discovering the best books, courses, and online tools to fuel your growth—no matter your interest! Whether you're diving into tech, exploring creative arts, advancing your career, or pursuing personal development, this curated collection has something for everyone.  
 
